@@ -1,4 +1,4 @@
-module netherrealmstudio.com/kafkalib
+module github.com/kdjuwidja/kafkalib
 
 go 1.24.0
 
